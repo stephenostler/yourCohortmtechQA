@@ -3,3 +3,4 @@ The time or name of your cohort:
 mtechqa
 First names of all your cohort classmates:
 Stephen, Kevin, Lauren, Gunner, Ezra, Sara, Hamlet, Charles, Jonathan
+Dogecoin
