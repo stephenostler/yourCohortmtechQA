@@ -4,3 +4,4 @@ mtechqa
 First names of all your cohort classmates:
 Stephen, Kevin, Lauren, Gunner, Ezra, Sara, Hamlet, Charles, Jonathan
 Dogecoin
+"This is the way"
